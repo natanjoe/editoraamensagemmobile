@@ -307,12 +307,31 @@
     "price": "R$10,00"
   },
   {
-    "title": "Bíblia -A mensagem de estudo Devocional",
+    "title": "Bíblia - A mensagem de estudo Devocional",
     "author": "William Branham",
     "imageUrl": "assets/images/35_biblia_a_mensagem_estudo_devocional.jpg",
-    "category": "devocionais",
+    "category": "biblia",
     "description": "Uma Bíblia Devocional contendo pensamentos de um dos mais conceituados pregadores de avivamento e cura Divina de nossos tempos. Um livro que alia palavras de encorajamento à simplicidade e serenidade de William Branham e a eterna Palavra de Deus. No início de cada livro há uma introdução que nos levará a entender com maior profundidade o que vamos ler.  Apresenta quando foi escrito, os temas principais, o versículo-chave e outras informações sobre o conteúdo. Uma Bíblia Devocional perfeita para quem quer estar mais perto do coração de Jesus Cristo, um refúgio para quem precisa da verdade e de descanço para continuar a caminhada com Graça, Fé e Amor! Contendo Novo Testamento Completo ISBN978-85-85332-02-0 TítuloBíblia a mensagem de estudo devocional Edição1 Ano Edição2018 Tipo de SuportePapel Páginas812 Editor(a)Editora A Mensagem",
     "subtitle": "Estudo e meditação diária com base na mensagem do profeta.",
+    "price": "R$110,00"
+  },
+
+  {
+    "title": "Bíblia Branham de estudo Devocional",
+    "author": "William Branham",
+    "imageUrl": "assets/images/40_biblia_branham.png",
+    "category": "biblia",
+    "description": "Uma Bíblia Devocional contendo pensamentos de um dos mais conceituados pregadores de avivamento e cura Divina de nossos tempos. Um livro que alia palavras de encorajamento à simplicidade e serenidade de William Branham e a eterna Palavra de Deus. No início de cada livro há uma introdução que nos levará a entender com maior profundidade o que vamos ler. Apresenta quando foi escrito, os temas principais, o versículo-chave e outras informações sobre o conteúdo. Uma Bíblia Devocional perfeita para quem quer estar mais perto do coração de Jesus Cristo, um refúgio para quem precisa da verdade e de descanço para continuar a caminhada com Graça, Fé e Amor!",
+    "subtitle": "Contendo Novo Testamento Completo e citações de William Marrion Branham",
+    "price": "R$110,00"
+  },
+  {
+    "title": "Bíblia Branham de estudo Devocional Rosa",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/41_biblia_devocional_rosa.png",
+    "category": "biblia",
+    "description": "Uma Bíblia Devocional contendo pensamentos de um dos mais conceituados pregadores de avivamento e cura Divina de nossos tempos. Um livro que alia palavras de encorajamento à simplicidade e serenidade de William Branham e a eterna Palavra de Deus. No início de cada livro há uma introdução que nos levará a entender com maior profundidade o que vamos ler. Apresenta quando foi escrito, os temas principais, o versículo-chave e outras informações sobre o conteúdo. Uma Bíblia Devocional perfeita para quem quer estar mais perto do coração de Jesus Cristo, um refúgio para quem precisa da verdade e de descanço para continuar a caminhada com Graça, Fé e Amor!",
+    "subtitle": "Contendo Novo Testamento Completo e citações de William Marrion Branham",
     "price": "R$110,00"
   }
 ]
