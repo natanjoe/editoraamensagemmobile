@@ -123,9 +123,8 @@ class _HomePageState extends State<HomePage> {
             ),
             
             _buildDrawerItem('Sermões Traduzidos', 'traducoes'),
-            _buildDrawerItem('Believers International', 'believers international'),
-            _buildDrawerItem('Série C.O.D.', 'C.O.D.'),
-            _buildDrawerItem('Sermões Ano 65 - Série', 'série 65'),
+            _buildDrawerItem('Conduta, Ordem, Doutrina-C.O.D.', 'C.O.D.'),
+            _buildDrawerItem('Sermões em série do Ano 1965 ', 'série 65'),
             _buildDrawerItem('A mensagem para crianças', 'crianças'),
             _buildDrawerItem('Biografias', 'biografias'),
             _buildDrawerItem('Bíblias de Estudo', 'bíblias de estudo'),
@@ -155,6 +154,18 @@ class _HomePageState extends State<HomePage> {
               },
             ),
            
+            ListTile(
+              leading: Icon(Icons.info, color: AppColors.primary),
+              title: const Text('Sobre o sistema.'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => const AboutPage()),
+                );
+              },
+            ),
+
           ],
         ),
       ),
