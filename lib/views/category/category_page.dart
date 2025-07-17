@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../models/book_model.dart';
 import '../shared/book_card.dart';
+import '../details/book_details_page.dart'; // <- IMPORTANTE!
 
 class CategoryPage extends StatelessWidget {
   final String category;
@@ -27,7 +28,18 @@ class CategoryPage extends StatelessWidget {
             mainAxisSpacing: 10,
           ),
           itemBuilder: (context, index) {
-            return BookCard(book: filteredBooks[index]);
+            final book = filteredBooks[index];
+            return GestureDetector(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) => BookDetailsPage(book: book),
+                  ),
+                );
+              },
+              child: BookCard(book: book),
+            );
           },
         ),
       ),
