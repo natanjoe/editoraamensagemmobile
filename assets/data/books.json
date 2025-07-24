@@ -375,10 +375,211 @@
   {
     "title": "Bíblia Branham de estudo Devocional Rosa",
     "author": "William Branham",
-    "imageUrl": "/assets/images/41_biblia_devocional_rosa.png",
+    "imageUrl": "assets/images/41_biblia_devocional_rosa.png",
     "category": "biblia",
     "description": "Uma Bíblia Devocional contendo pensamentos de um dos mais conceituados pregadores de avivamento e cura Divina de nossos tempos. Um livro que alia palavras de encorajamento à simplicidade e serenidade de William Branham e a eterna Palavra de Deus. No início de cada livro há uma introdução que nos levará a entender com maior profundidade o que vamos ler. Apresenta quando foi escrito, os temas principais, o versículo-chave e outras informações sobre o conteúdo. Uma Bíblia Devocional perfeita para quem quer estar mais perto do coração de Jesus Cristo, um refúgio para quem precisa da verdade e de descanço para continuar a caminhada com Graça, Fé e Amor!",
     "subtitle": "Contendo Novo Testamento Completo e citações de William Marrion Branham",
     "price": "R$110,00"
+  },
+  {
+    "title": "Bíblia Reina Valeria",
+    "author": "William Branham",
+    "imageUrl": "assets/images/42_biblia_reinavaleria.jpg",
+    "category": "biblia",
+    "description": "Esta obra fue desarrollada por la Casa Publicadora Paulista, con revisión ortográfica y actualización de algunas palabras que estaban en español arcaico, a partir de la edición de la Santa Biblia de 1909, revisión que tuvo como base la versión de Casiodoro de Reina de 1569,y las revisiones de Cipriano de Valera de 1602 e otras de 1862 e 1909.",
+    "subtitle": "IDIOMA - Espanhol. Bíblia Sagrada traduzida para o idioma espanhol com linguagem RVT, Reina Valera Tradicional.",
+    "price": "R$65,00"
+  }
+  ,
+  {
+    "title": "Bíblia Reina Valeria Tradicional",
+    "author": "William Branham",
+    "imageUrl": "assets/images/43_biblia_reinavaleria_tradicional.png",
+    "category": "biblia",
+    "description": "Esta obra fue desarrollada por la Casa Publicadora Paulista, con revisión ortográfica y actualización de algunas palabras que estaban en español arcaico, a partir de la edición de la Santa Biblia de 1909, revisión que tuvo como base la versión de Casiodoro de Reina de 1569,y las revisiones de Cipriano de Valera de 1602 e otras de 1862 e 1909.",
+    "subtitle": "Bíblia Sagrada traduzida para o idioma espanhol com linguagem RVT, Reina Valera Tradicional.",
+    "price": "R$65,00"
+  },
+  {
+    "title": "Bíblia de estudo avivamento e o poder do Espírito",
+    "author": "William Branham",
+    "imageUrl": "assets/images/44_biblia_estudo_avivamentopoderdoespirito.png",
+    "category": "biblia",
+    "description": "Bem-vindo ao mundo inspirador da Bíblia de Estudo Temática Avivamento e o Poder do Espírito Santo. Nesta edição única, você encontrará uma poderosa combinação de sermões e conteúdos cuidadosamente selecionados pela editora Penkal, abordando os temas do avivamento e do poder do Espírito Santo na perspectiva do renomado autor e prestigiado pregador Charles Spurgeon. Com seis estudos selecionados dentro do tema Avivamento através do Poder do Espírito Santo, que são divididos em tópicos como: Perspectiva do Avivamento, Oração por avivamento; a necessidade do fogo espiritual e outros itens para um estudo aprofundado sobre esse tema tão importante para a igreja, principalmente nos dias atuais.",
+    "subtitle": "Pela editora Penkal temas na perspectiva de Charles Spurgeon",
+    "price": "R$100,00"
+  },
+  {
+    "title": "Bíblia de estudo avivamento e o poder do Espírito",
+    "author": "William Branham",
+    "imageUrl": "assets/images/45_biblia_estudo_avivamentopoderdoespirito_capa2.png",
+    "category": "biblia",
+    "description": "Bem-vindo ao mundo inspirador da Bíblia de Estudo Temática Avivamento e o Poder do Espírito Santo. Nesta edição única, você encontrará uma poderosa combinação de sermões e conteúdos cuidadosamente selecionados pela editora Penkal, abordando os temas do avivamento e do poder do Espírito Santo na perspectiva do renomado autor e prestigiado pregador Charles Spurgeon. Com seis estudos selecionados dentro do tema Avivamento através do Poder do Espírito Santo, que são divididos em tópicos como: Perspectiva do Avivamento, Oração por avivamento; a necessidade do fogo espiritual e outros itens para um estudo aprofundado sobre esse tema tão importante para a igreja, principalmente nos dias atuais.",
+    "subtitle": "Pela editora Penkal temas na perspectiva de Charles Spurgeon",
+    "price": "R$100,00"
+  },
+  {
+    "title": "Bíblia do Homem Sábio - ARC",
+    "author": "William Branham",
+    "imageUrl": "assets/images/46_biblia_dohomemsabio_verde.png",
+    "category": "biblia",
+    "description": "Nesta nova ferramenta para trazer a Palavra de Deus, o leitor será introduzido nos principais conceitos e razões teológicas fundamentadas na teologia bíblica. Para que possamos entender melhor, devemos entender como funciona sua estrutura de ensino, para que consequentemente a ferramenta da CCP possa ser utilizada com a proporção pela qual a mesma foi direcionada. A primeira categoria de estudo que possui é a sua aplicação direta e objetiva, essa maneira de estudo proporciona uma abordagem mais clara e simples no que diz respeito à sua apresentação no momento de explanar o texto.",
+    "subtitle": "A Casa Publicadora Paulista vem se dedicando não somente em trazer Bíblias ao público cristão, não é apenas essa a preocupação da mesma, o principal intuito da Casa é também produzir conhecimento bíblico, e justamente por este motivo que a CCP apresenta a “Bíblia de Estudo do Homem Sábio”",
+    "price": "R$120,00"
+  },
+  {
+    "title": "Bíblia do Homem Sábio - ARC",
+    "author": "William Branham",
+    "imageUrl": "assets/images/47_biblia_homemsabio_azul.png",
+    "category": "biblia",
+    "description": "Nesta nova ferramenta para trazer a Palavra de Deus, o leitor será introduzido nos principais conceitos e razões teológicas fundamentadas na teologia bíblica. Para que possamos entender melhor, devemos entender como funciona sua estrutura de ensino, para que consequentemente a ferramenta da CCP possa ser utilizada com a proporção pela qual a mesma foi direcionada. A primeira categoria de estudo que possui é a sua aplicação direta e objetiva, essa maneira de estudo proporciona uma abordagem mais clara e simples no que diz respeito à sua apresentação no momento de explanar o texto.",
+    "subtitle": " Capa Azul A Casa Publicadora Paulista vem se dedicando não somente em trazer Bíblias ao público cristão, não é apenas essa a preocupação da mesma, o principal intuito da Casa é também produzir conhecimento bíblico, e justamente por este motivo que a CCP apresenta a 'Bíblia de Estudo do Homem Sábio'",
+    "price": "R$120,00"
+  },
+  {
+    "title": "Bíblia do Homem Sábio - ARC",
+    "author": "William Branham",
+    "imageUrl": "assets/images/48_biblia_homemsabio_vermelhapreta.png",
+    "category": "biblia",
+    "description": "Nesta nova ferramenta para trazer a Palavra de Deus, o leitor será introduzido nos principais conceitos e razões teológicas fundamentadas na teologia bíblica. Para que possamos entender melhor, devemos entender como funciona sua estrutura de ensino, para que consequentemente a ferramenta da CCP possa ser utilizada com a proporção pela qual a mesma foi direcionada. A primeira categoria de estudo que possui é a sua aplicação direta e objetiva, essa maneira de estudo proporciona uma abordagem mais clara e simples no que diz respeito à sua apresentação no momento de explanar o texto.",
+    "subtitle": " Capa Vermelha e Preta - A Casa Publicadora Paulista vem se dedicando não somente em trazer Bíblias ao público cristão, não é apenas essa a preocupação da mesma, o principal intuito da Casa é também produzir conhecimento bíblico, e justamente por este motivo que a CCP apresenta a 'Bíblia de Estudo do Homem Sábio'",
+    "price": "R$120,00"
+  }
+  ,
+  {
+    "title": "Bíblia do Homem Sábio - ARC",
+    "author": "William Branham",
+    "imageUrl": "assets/images/49_biblia_homemsabio_verdeazul.png",
+    "category": "biblia",
+    "description": "Nesta nova ferramenta para trazer a Palavra de Deus, o leitor será introduzido nos principais conceitos e razões teológicas fundamentadas na teologia bíblica. Para que possamos entender melhor, devemos entender como funciona sua estrutura de ensino, para que consequentemente a ferramenta da CCP possa ser utilizada com a proporção pela qual a mesma foi direcionada. A primeira categoria de estudo que possui é a sua aplicação direta e objetiva, essa maneira de estudo proporciona uma abordagem mais clara e simples no que diz respeito à sua apresentação no momento de explanar o texto.",
+    "subtitle": " Capa Verde e Azul - A Casa Publicadora Paulista vem se dedicando não somente em trazer Bíblias ao público cristão, não é apenas essa a preocupação da mesma, o principal intuito da Casa é também produzir conhecimento bíblico, e justamente por este motivo que a CCP apresenta a 'Bíblia de Estudo do Homem Sábio'",
+    "price": "R$120,00"
+  }
+  ,
+  {
+    "title": "Bíblia do Homem Sábio - ARC",
+    "author": "William Branham",
+    "imageUrl": "assets/images/50_biblia_dasmeninnascorajosas.png",
+    "category": "biblia",
+    "description": "Bíblia Sagrada, na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida, sendo a versão mais utilizada pelos evangélicos no Brasil e se destaca por sua fidelidade aos textos originais. Ela possui tecnologia full color, com Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho, além de mapas coloridos que enriquecem o entendimento geográfico e histórico. Esta versão também possui encartes ilustrados, voltados ao público infantil feminino, tornando a experiência ainda mais acessível e interessante para as crianças.",
+    "subtitle": "Bíblia das meninas corajosas capa dura - Rosa",
+    "price": "R$50,00"
+  },
+  {
+    "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - FLOR DOURADA",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/51_biblia_letragigante.png",
+    "category": "biblia",
+    "description": "Projetada para aqueles que desejam um estudo profundo e significativo das Escrituras, esta Bíblia Gigante na versão Almeida Revista e Corrigida (ARC) oferece uma experiência visual e espiritual inigualável. Sua capa brochura proporciona leveza e praticidade, enquanto a impressão FULL COLOR traz uma nitidez surpreendente, com as palavras de Jesus destacadas em vermelho e as referências a Deus em azul, permitindo uma leitura ainda mais clara e emocionante.",
+    "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - FLOR DOURADA",
+    "price": "R$22,00"
+  },
+  {
+    "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - JARDIM LILAS",
+    "author": "William Branham",
+    "imageUrl": "assets/images/52_bibliadoguerreiro.png",
+    "category": "biblia",
+    "description": "Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil. Com sua fidelidade traduzida dos textos originais pelo missionário português João Ferreira de Almeida. Além disso, conta com tecnologia full color: Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho. A Bíblia também inclui mapas coloridos, que enriquecem o entendimento geográfico e histórico dos acontecimentos bíblicos.",
+    "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - JARDIM LILAS",
+    "price": "R$50,00"
+  },
+  {
+    "title": "BIBLIA DO GUERREIRO - CAPA 01",
+    "author": "William Branham",
+    "imageUrl": "assets/images/53_bibliadoguerreiro.png",
+    "category": "biblia",
+    "description": "Guerreiro, embarque nesta contagiante trajetória para você aprender mais sobre Deus, seus milagres, as batalhas que aconteceram e sobre os personagens da Bíblia.Serão histórias ilustradas em que você irá viver cada um dos capítulos com alegria, coragem, emoção, aprendizado e fé.",
+    "subtitle": "BIBLIA DO GUERREIRO - CAPA 01",
+    "price": "R$65,00"
+  },
+  {
+    "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - LEAO DESENHO",
+    "author": "William Branham",
+    "imageUrl": "assets/images/54_biblialetraginante_leao.png",
+    "category": "biblia",
+    "description": "Bíblia Gigante Full Color ARC Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil.",
+    "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - LEAO DESENHO",
+    "price": "R$22,00"
+  },
+  {
+    "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - LEAO RUGINDO",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/55_biblialetragigante_leaorugindo.png",
+    "category": "biblia",
+    "description": "Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil. Com sua fidelidade traduzida dos textos originais pelo missionário português João Ferreira de Almeida. Além disso, conta com tecnologia full color: Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho. A Bíblia também inclui mapas coloridos, que enriquecem o entendimento geográfico e histórico dos acontecimentos bíblicos.",
+    "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - LEAO RUGINDO",
+    "price": "R$22,00"
+  },
+  {
+    "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR LAMINADA LUXO C/ HARPA - PRETA",
+    "author": "William Branham",
+    "imageUrl": "assets/images/55_biblialetragigante_leaorugindo.png",
+    "category": "biblia",
+    "description": "Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil. Com sua fidelidade traduzida dos textos originais pelo missionário português João Ferreira de Almeida. Além disso, conta com tecnologia full color: Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho. A Bíblia também inclui mapas coloridos, que enriquecem o entendimento geográfico e histórico dos acontecimentos bíblicos.",
+    "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR LAMINADA LUXO C/ HARPA - PRETA",
+    "price": "R$52,00"
+  },
+  {
+    "title": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA BORDO",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/58_biblialetragigante_bordo.png",
+    "category": "biblia",
+    "description": "Essa nova edição está com as Palavras de Deus e De Jesus em Vermelho. Matthew Henry, Charles H. Spurgeon, John Wesley, John Gill, Charles Hodge, Adam Clarke, Isaac Watts, Andrew Murray, Albert Barnes, John Nelson Darby, Alexander Maclaren, B. W. Johnson, Edward M. Bounds, F. W. Grant, John Lightfoot, Robert Jamieson, Wiliam Kelly, F. B. Meyer e outros.",
+    "subtitle": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA BORDO. ",
+    "price": "R$120,00"
+  },
+  {
+    "title": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA MARROM",
+    "author": "William Branham",
+    "imageUrl": "assets/images/58_biblialetragigante_bordo.png",
+    "category": "biblia",
+    "description": "Essa nova edição está com as Palavras de Deus e De Jesus em Vermelho. Matthew Henry, Charles H. Spurgeon, John Wesley, John Gill, Charles Hodge, Adam Clarke, Isaac Watts, Andrew Murray, Albert Barnes, John Nelson Darby, Alexander Maclaren, B. W. Johnson, Edward M. Bounds, F. W. Grant, John Lightfoot, Robert Jamieson, Wiliam Kelly, F. B. Meyer e outros.",
+    "subtitle": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA MARROM",
+    "price": "R$120,00"
+  },
+  {
+    "title": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA MARROM",
+    "author": "William Branham",
+    "imageUrl": "assets/images/59_biblialetragigante_marron.png",
+    "category": "biblia",
+    "description": "Essa nova edição está com as Palavras de Deus e De Jesus em Vermelho. Matthew Henry, Charles H. Spurgeon, John Wesley, John Gill, Charles Hodge, Adam Clarke, Isaac Watts, Andrew Murray, Albert Barnes, John Nelson Darby, Alexander Maclaren, B. W. Johnson, Edward M. Bounds, F. W. Grant, John Lightfoot, Robert Jamieson, Wiliam Kelly, F. B. Meyer e outros.",
+    "subtitle": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA MARROM",
+    "price": "R$120,00"
+  },
+  {
+    "title": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA PRETA",
+    "author": "William Branham",
+    "imageUrl": "assets/images/60_biblialetragigante_preta.png",
+    "category": "biblia",
+    "description": "Essa nova edição está com as Palavras de Deus e De Jesus em Vermelho. Matthew Henry, Charles H. Spurgeon, John Wesley, John Gill, Charles Hodge, Adam Clarke, Isaac Watts, Andrew Murray, Albert Barnes, John Nelson Darby, Alexander Maclaren, B. W. Johnson, Edward M. Bounds, F. W. Grant, John Lightfoot, Robert Jamieson, Wiliam Kelly, F. B. Meyer e outros.",
+    "subtitle": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA PRETA",
+    "price": "R$120,00"
+  },
+  {
+    "title": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - MULTIPLICACAO DOS PÃES",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/61_biblia_multiplicacaopaes.png",
+    "category": "biblia",
+    "description": "O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
+    "subtitle": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - MULTIPLICACAO DOS PÃES",
+    "price": "R$105,00"
+  },
+  {
+    "title": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - RESSUSCITOU",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/62_biblia_comharpa.png",
+    "category": "biblia",
+    "description": "A Bíblia Anotações Espiral é indispensável para quem deseja aprofundar seu conhecimento e compreensão das Escrituras. O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
+    "subtitle": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - RESSUSCITOU",
+    "price": "R$105,00"
+  },
+  {
+    "title": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/63_biblia_anotacoes_espirito_santo.png",
+    "category": "biblia",
+    "description": "A Bíblia Anotações Espiral é indispensável para quem deseja aprofundar seu conhecimento e compreensão das Escrituras. O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
+    "subtitle": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
+    "price": "R$120,00"
   }
 ]

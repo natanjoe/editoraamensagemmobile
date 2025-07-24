@@ -127,7 +127,7 @@ class _HomePageState extends State<HomePage> {
             _buildDrawerItem('Sermões em série do Ano 1965 ', 'série 65'),
             _buildDrawerItem('A mensagem para crianças', 'crianças'),
             _buildDrawerItem('Biografias', 'biografias'),
-            _buildDrawerItem('Bíblias de Estudo', 'bíblias de estudo'),
+            _buildDrawerItem('Bíblias de Estudo', 'biblia'),
             _buildDrawerItem('Outros Autores', 'Outros Autores'),
                         
             ListTile(
