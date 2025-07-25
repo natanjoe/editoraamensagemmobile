@@ -468,7 +468,7 @@
   {
     "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - FLOR DOURADA",
     "author": "William Branham",
-    "imageUrl": "/assets/images/51_biblia_letragigante.png",
+    "imageUrl": "assets/images/51_biblia_letragigante.png",
     "category": "biblia",
     "description": "Projetada para aqueles que desejam um estudo profundo e significativo das Escrituras, esta Bíblia Gigante na versão Almeida Revista e Corrigida (ARC) oferece uma experiência visual e espiritual inigualável. Sua capa brochura proporciona leveza e praticidade, enquanto a impressão FULL COLOR traz uma nitidez surpreendente, com as palavras de Jesus destacadas em vermelho e as referências a Deus em azul, permitindo uma leitura ainda mais clara e emocionante.",
     "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - FLOR DOURADA",
@@ -477,7 +477,7 @@
   {
     "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - JARDIM LILAS",
     "author": "William Branham",
-    "imageUrl": "assets/images/52_bibliadoguerreiro.png",
+    "imageUrl": "/assets/images/52_biblialetragigante_lilas.png",
     "category": "biblia",
     "description": "Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil. Com sua fidelidade traduzida dos textos originais pelo missionário português João Ferreira de Almeida. Além disso, conta com tecnologia full color: Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho. A Bíblia também inclui mapas coloridos, que enriquecem o entendimento geográfico e histórico dos acontecimentos bíblicos.",
     "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - JARDIM LILAS",
@@ -504,7 +504,7 @@
   {
     "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - LEAO RUGINDO",
     "author": "William Branham",
-    "imageUrl": "/assets/images/55_biblialetragigante_leaorugindo.png",
+    "imageUrl": "assets/images/55_biblialetragigante_leaorugindo.png",
     "category": "biblia",
     "description": "Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil. Com sua fidelidade traduzida dos textos originais pelo missionário português João Ferreira de Almeida. Além disso, conta com tecnologia full color: Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho. A Bíblia também inclui mapas coloridos, que enriquecem o entendimento geográfico e histórico dos acontecimentos bíblicos.",
     "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - LEAO RUGINDO",
@@ -522,7 +522,7 @@
   {
     "title": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA BORDO",
     "author": "William Branham",
-    "imageUrl": "/assets/images/58_biblialetragigante_bordo.png",
+    "imageUrl": "assets/images/58_biblialetragigante_bordo.png",
     "category": "biblia",
     "description": "Essa nova edição está com as Palavras de Deus e De Jesus em Vermelho. Matthew Henry, Charles H. Spurgeon, John Wesley, John Gill, Charles Hodge, Adam Clarke, Isaac Watts, Andrew Murray, Albert Barnes, John Nelson Darby, Alexander Maclaren, B. W. Johnson, Edward M. Bounds, F. W. Grant, John Lightfoot, Robert Jamieson, Wiliam Kelly, F. B. Meyer e outros.",
     "subtitle": "BIBLIA MOVER DE DEUS ARC. L ULTRAGIG. C/ HARPA BORDO. ",
@@ -558,7 +558,7 @@
   {
     "title": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - MULTIPLICACAO DOS PÃES",
     "author": "William Branham",
-    "imageUrl": "/assets/images/61_biblia_multiplicacaopaes.png",
+    "imageUrl": "assets/images/61_biblia_multiplicacaopaes.png",
     "category": "biblia",
     "description": "O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
     "subtitle": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - MULTIPLICACAO DOS PÃES",
@@ -567,7 +567,7 @@
   {
     "title": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - RESSUSCITOU",
     "author": "William Branham",
-    "imageUrl": "/assets/images/62_biblia_comharpa.png",
+    "imageUrl": "assets/images/62_biblia_comharpa.png",
     "category": "biblia",
     "description": "A Bíblia Anotações Espiral é indispensável para quem deseja aprofundar seu conhecimento e compreensão das Escrituras. O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
     "subtitle": "BIBLIA PARA ANOTACOES - ARC - C/ HARPA - ESPIRAL - RESSUSCITOU",
@@ -576,10 +576,46 @@
   {
     "title": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
     "author": "William Branham",
-    "imageUrl": "/assets/images/63_biblia_anotacoes_espirito_santo.png",
+    "imageUrl": "assets/images/63_biblia_anotacoes_espirito_santo.png",
     "category": "biblia",
     "description": "A Bíblia Anotações Espiral é indispensável para quem deseja aprofundar seu conhecimento e compreensão das Escrituras. O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
     "subtitle": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
     "price": "R$120,00"
+  },
+  {
+    "title": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
+    "author": "William Branham",
+    "imageUrl": "assets/images/63_biblia_anotacoes_espirito_santo.png",
+    "category": "biblia",
+    "description": "A Bíblia Anotações Espiral é indispensável para quem deseja aprofundar seu conhecimento e compreensão das Escrituras. O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
+    "subtitle": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
+    "price": "R$120,00"
+  },
+  {
+    "title": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - FLORES E BORBOLETAS",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/64_biblia_espiralfloresborboletas.png",
+    "category": "biblia",
+    "description": "A Bíblia para Anotações combina a beleza e a sagrada mensagem das Escrituras com recursos práticos para aqueles que desejam estudar, refletir e registrar suas próprias anotações pessoais. Com um design cuidadosamente pensado, proporciona uma experiência única de leitura e estudo. A versão King James Atualizada preserva o estilo literário da versão King James original, enquanto incorpora uma linguagem atualizada, tornando-a mais acessível aos leitores contemporâneos. Com essa versão, você poderá mergulhar nas explicações dos ensinamentos bíblicos, apreciando a riqueza da linguagem e a fidelidade ao texto original.",
+    "subtitle": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - FLORES E BORBOLETAS",
+    "price": "R$120,00"
+  },
+  {
+    "title": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/64_biblia_espiralfloresborboletas.png",
+    "category": "biblia",
+    "description": "'Box 5 livros Pentateuco Bilíngue | Estudo da Torá' é uma coleção abrangente que oferece aos leitores uma rica exploração dos livros do Pentateuco: Gênesis, Êxodo, Levítico, Números e Deuteronômio. Com um texto bilíngue em hebraico original e português, traduzido por Brian Kibuuka - PHD em História Bíblica, esta caixa proporciona uma imersão completa nos temas e ensinamentos essenciais da Torá. Cada livro do Pentateuco é cuidadosamente comentado, com análise capítulo por capítulo e versículo por versículo. Os comentários aprofundam a compreensão do texto bíblico, fornecendo insights e incentivando valiosos. Além disso, o box apresenta curiosidades sobre o texto bíblico, trazendo informações adicionais que enriquecem a experiência de leitura.",
+    "subtitle": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
+    "price": "R$226,00"
+  },
+  {
+    "title": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
+    "author": "William Branham",
+    "imageUrl": "/assets/images/64_biblia_espiralfloresborboletas.png",
+    "category": "biblia",
+    "description": "'Box 5 livros Pentateuco Bilíngue | Estudo da Torá' é uma coleção abrangente que oferece aos leitores uma rica exploração dos livros do Pentateuco: Gênesis, Êxodo, Levítico, Números e Deuteronômio. Com um texto bilíngue em hebraico original e português, traduzido por Brian Kibuuka - PHD em História Bíblica, esta caixa proporciona uma imersão completa nos temas e ensinamentos essenciais da Torá. Cada livro do Pentateuco é cuidadosamente comentado, com análise capítulo por capítulo e versículo por versículo. Os comentários aprofundam a compreensão do texto bíblico, fornecendo insights e incentivando valiosos. Além disso, o box apresenta curiosidades sobre o texto bíblico, trazendo informações adicionais que enriquecem a experiência de leitura.",
+    "subtitle": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
+    "price": "R$226,00"
   }
 ]
