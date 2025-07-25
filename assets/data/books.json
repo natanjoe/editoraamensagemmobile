@@ -477,7 +477,7 @@
   {
     "title": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - JARDIM LILAS",
     "author": "William Branham",
-    "imageUrl": "/assets/images/52_biblialetragigante_lilas.png",
+    "imageUrl": "assets/images/52_biblialetragigante_lilas.png",
     "category": "biblia",
     "description": "Bíblia Sagrada, com a linguagem na versão ARC (Almeida Revista e Corrigida) de João Ferreira de Almeida. Sendo a versão mais utilizada pelos evangélicos do Brasil. Com sua fidelidade traduzida dos textos originais pelo missionário português João Ferreira de Almeida. Além disso, conta com tecnologia full color: Promessas em destaque, palavras de Deus em azul e palavras de Jesus em vermelho. A Bíblia também inclui mapas coloridos, que enriquecem o entendimento geográfico e histórico dos acontecimentos bíblicos.",
     "subtitle": "BIBLIA L. GIGANTE PPM ARC FULL COLOR BROCHURA C/ HARPA - JARDIM LILAS",
@@ -583,18 +583,9 @@
     "price": "R$120,00"
   },
   {
-    "title": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
-    "author": "William Branham",
-    "imageUrl": "assets/images/63_biblia_anotacoes_espirito_santo.png",
-    "category": "biblia",
-    "description": "A Bíblia Anotações Espiral é indispensável para quem deseja aprofundar seu conhecimento e compreensão das Escrituras. O sistema de encadernação em espiral permite uma abertura completa de suas páginas, tornando a leitura e a caminhada muito mais confortáveis e práticas. Combina a fidelidade das Escrituras Sagradas na tradução Almeida Revista e Corrigida com a liberdade de anotar e personalizar as páginas de acordo com as necessidades e experiências individuais, registrando suas reflexões, insights e descobertas pessoais ao longo do estudo bíblico.",
-    "subtitle": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - ESPIRITO SANTO",
-    "price": "R$120,00"
-  },
-  {
     "title": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - FLORES E BORBOLETAS",
     "author": "William Branham",
-    "imageUrl": "/assets/images/64_biblia_espiralfloresborboletas.png",
+    "imageUrl": "assets/images/64_biblia_espiralfloresborboletas.png",
     "category": "biblia",
     "description": "A Bíblia para Anotações combina a beleza e a sagrada mensagem das Escrituras com recursos práticos para aqueles que desejam estudar, refletir e registrar suas próprias anotações pessoais. Com um design cuidadosamente pensado, proporciona uma experiência única de leitura e estudo. A versão King James Atualizada preserva o estilo literário da versão King James original, enquanto incorpora uma linguagem atualizada, tornando-a mais acessível aos leitores contemporâneos. Com essa versão, você poderá mergulhar nas explicações dos ensinamentos bíblicos, apreciando a riqueza da linguagem e a fidelidade ao texto original.",
     "subtitle": "BIBLIA PARA ANOTACOES - KJA - ESPIRAL - FLORES E BORBOLETAS",
@@ -603,19 +594,137 @@
   {
     "title": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
     "author": "William Branham",
-    "imageUrl": "/assets/images/64_biblia_espiralfloresborboletas.png",
+    "imageUrl": "assets/images/65_boxpentateuco.png",
     "category": "biblia",
     "description": "'Box 5 livros Pentateuco Bilíngue | Estudo da Torá' é uma coleção abrangente que oferece aos leitores uma rica exploração dos livros do Pentateuco: Gênesis, Êxodo, Levítico, Números e Deuteronômio. Com um texto bilíngue em hebraico original e português, traduzido por Brian Kibuuka - PHD em História Bíblica, esta caixa proporciona uma imersão completa nos temas e ensinamentos essenciais da Torá. Cada livro do Pentateuco é cuidadosamente comentado, com análise capítulo por capítulo e versículo por versículo. Os comentários aprofundam a compreensão do texto bíblico, fornecendo insights e incentivando valiosos. Além disso, o box apresenta curiosidades sobre o texto bíblico, trazendo informações adicionais que enriquecem a experiência de leitura.",
     "subtitle": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
     "price": "R$226,00"
   },
   {
-    "title": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
+    "title": "Livro - Eu Visitei Uma Reunião Branham por LEN J. JONES",
     "author": "William Branham",
-    "imageUrl": "/assets/images/64_biblia_espiralfloresborboletas.png",
-    "category": "biblia",
-    "description": "'Box 5 livros Pentateuco Bilíngue | Estudo da Torá' é uma coleção abrangente que oferece aos leitores uma rica exploração dos livros do Pentateuco: Gênesis, Êxodo, Levítico, Números e Deuteronômio. Com um texto bilíngue em hebraico original e português, traduzido por Brian Kibuuka - PHD em História Bíblica, esta caixa proporciona uma imersão completa nos temas e ensinamentos essenciais da Torá. Cada livro do Pentateuco é cuidadosamente comentado, com análise capítulo por capítulo e versículo por versículo. Os comentários aprofundam a compreensão do texto bíblico, fornecendo insights e incentivando valiosos. Além disso, o box apresenta curiosidades sobre o texto bíblico, trazendo informações adicionais que enriquecem a experiência de leitura.",
-    "subtitle": "LIVRO BOX 5 LIVROS PENTATEUCO BILINGUE - ESTUDO DA TORA",
-    "price": "R$226,00"
+    "imageUrl": "assets/images/66_euvisiteiumareuniaobranham.png",
+    "category": "biografia",
+    "description": "*Com Acréscimo do artigo do mesmo autor: Participei de Mais uma Reunião Branham. O Reverendo Len J. Jones foi o fundador-diretor da revista trimestral australiana “A EVIDÊNCIA”, uma Publicação do Evangelho Completo de 68 páginas. Em 1954, ele estava em uma visita aos E.U.A. Foi recolhido para estar com O Senhor em 14 de outubro de 1974.  Em 24 de abril de 2017 publicamos um artigo de um ministro australiano chamado Len J. Jones, intitulado: “Participei de Mais um Encontro Branham, 1959.” Foi um artigo complementar sobre sua primeira visita a um dos encontros do irmão Branham em 1951 (Vernon, Colúmbia Britânica) e depois novamente em 1954 (Shreveport, Louisiana). Recentemente encontramos o artigo de 1954.Este relato de testemunha ocular é do Rev. Len Jones, originalmente publicado na revista religiosa australiana “A Evidência,” e republicado em várias revistas religiosas no final dos anos 50.",
+    "subtitle": "Livro - Eu Visitei Uma Reunião Branham por LEN J. JONES",
+    "price": "R$20,00"
+  },
+  {
+    "title": "Sobrenatural, Livro Seis: A Vida de William Branham (português) por Ow",
+    "author": "William Branham",
+    "imageUrl": "assets/images/67_sobrenatural_livro6.png",
+    "category": "biografia",
+    "description": "Livro Seis: O Profeta e Sua Revelaçã (1960 - 1965). Quando os primeiros dois estágios do ministério de William Branham estavam bem estabelecidos, a pergunta persistia: Como seria o terceiro estágio Seguindo a liderança de Deus, William Branham estava, nos cinco anos finais de sua vida, determinado a trazer uma série de sermões que levaria a igreja a um entendimento mais profundo dos mistérios da escritura que estavam escondidos desde quando se iniciou o tempo. O que os símbolos misteriosos do livro de Apocalipse significam O que é o “mistério de Deus” falado no Novo Testamento Estas coisas foram inquiridas, especuladas e debatidas nas instituições de cristianismo por dois mil anos. Mas o que acontece quando o próprio Deus se encarrega de revelar as respostas Isso aconteceu e essa história maravilhosa está aqui, para que você leia.",
+    "subtitle": "Sobrenatural, Livro Seis: A Vida de William Branham (português) por Ow",
+    "price": "R$35,00"
+  },
+  {
+    "title": "Sobrenatural, Livro Cinco: A Vida de William Branham (português) por Owen Jorgen",
+    "author": "William Branham",
+    "imageUrl": "assets/images/68_sobrenatural_livro5.png",
+    "category": "biografia",
+    "description": "Livro Cinco: O Mestre e Sua Rejeição (1955 - 1960) O ministério internacional de William Branham teve três estágios. Primeiro, ele discerniu enfermidades através de um sinal sobrenatural em sua mão. Mais tarde, visões o permitia discernir doenças muitas outras coisas. Entre 1946 e 1954, cerca de 500.000 pessoas aceitaram a Jesus Cristo como seu Salvador por razão de sua pregação - e não havia maneira em estimar quantos milhões receberam cura por motivo de suas orações. Discernindo que as pessoas não estavam aceitando a profundidade e estatura que a Palavra de Deus e o Espírito estava oferecendo a eles, William Branham sentiu o Espírito de Deus o chamar para mais. Ele sabia que pessoas vinham às suas reuniões por várias razões. Algumas pessoas vinham porque criam que o Espírito de Jesus Cristo estava presente. Outros vinham pela novidade e entusiasmo disto, apenas da mesma maneira que as pessoas se reuniam para ver Jesus curar os enfermos e multiplicar o vinho, pão, e peixe. Porém este foi o ensinamento de Jesus que mudou a história do mundo. William Branham sentiu que Deus o estava chamando para ensinar durante sua campanhas de cura pela fé. Ele sabia que seu ministério podia fazer algo duradouro, uma contribuição benéfica para a igreja cristã. Começando em 1955, ele não somente ensinou cura Divina, como também ensino outros aspectos da Palavra de Deus. Deus deu a ele uma visão de um novo estágio para seu ministério - uma “terceira puxada” (Usando as palavras do anjo) - o qual excederia tudo que Deus já tinha feito através dele no passado. Inevitavelmente, ele ofendeu algumas pessoas.",
+    "subtitle": "Sobrenatural, Livro Cinco: A Vida de William Branham (português) por Owen Jorgen",
+    "price": "R$35,00"
+  },
+  {
+    "title": "Sobrenatural, Livro Quatro: A Vida de William Branham (português) Owen Jorgensen",
+    "author": "William Branham",
+    "imageUrl": "assets/images/69_sobrenatural_livroquatro.png",
+    "category": "biografia",
+    "description": "Conheça em detalhes a vida e ministério Sobrenatural do Rev. William Branham! Livro Quatro: O Evangelista e Sua aclamação (1951 - 1954)  William Branham é um paradoxo na história moderna. Começando em 1946 seu ministério saltou da obscuridade para ganhar atenção nacional em menos de seis meses, e no processo isto reluziu a fé mundialmente - avivamento de cura. Ele realizou este feito com a ajuda de um dom sem igual - um sinal sobrenatural que surpreendeu e levou as pessoas a notarem. Rapidamente cristãos ao redor do mundo foram avisados. Entre 1951 e 1954 William Branham conduziu a maior reunião cristã da história daquele tempo - cerca de 300.000 pessoas em um encontro em Bombay, India. A demanda para seus cultos na América e exterior pareceram insaciáveis. Porém William Branham não estava satisfeito. Algo parecia errado. Por um longo tempo ele não sabia o que era isto, porém no final de 1954 ele soube. Seu ministério teria que mudar.",
+    "subtitle": "Sobrenatural, Livro Quatro: A Vida de William Branham (português) Owen Jorgensen",
+    "price": "R$25,00"
+  },
+  {
+    "title": "Sobrenatural, Livro Três: A Vida de William Branham (português) Owen Jorgensen",
+    "author": "William Branham",
+    "imageUrl": "assets/images/70_sobrenatural_livrotres.png",
+    "category": "biografia",
+    "description": "Livro Três: O Homem e Sua Comissão (1946 - 1950) Logo depois que o anjo visitou William Branham e lhe disse que fora ordenado a levar um dom de cura às pessoas do mundo, o primeiro sinal apareceu - uma reação física em sua mão que acontecia quando ele tocava a mão de alguém que sofria com uma enfermidade causada por germe. Dentro de dois meses de sua comissão, o dom extraordinário de William Branham tinha ganhado atenção nacional. Pessoas aos milhares se ajuntavam em suas reuniões, onde ele pregava salvação e cura Divina no nome de Jesus Cristo. Milagres abundavam. O mundo jamais tinha visto algo igual desde os dias quando Jesus caminhou através da Galiléia, expulsando demônios e curando a todos os que estavam enfermos e aflitos. Mesmo assim, algumas pessoas ainda questionavam se um anjo tinha realmente se encontrado com este humilde homem. Então o segundo sinal apareceu... e eles tiveram que crer!",
+    "subtitle": "Sobrenatural, Livro Três: A Vida de William Branham (português) Owen Jorgensen",
+    "price": "R$25,00"
+  },
+  {
+    "title": "Sobrenatural, Livro Dois: A Vida de William Branham (português) Owen Jorgensen",
+    "author": "William Branham",
+    "imageUrl": "assets/images/71_sobrenatural_livrodois.png",
+    "category": "biografia",
+    "description": "Livro Dois: O Jovem e Seu Desespero (1933 - 1946) Como um pastor jovem, William Branham lutou para entender sua vida peculiar. Por que ele era o único ministro na cidade que via visões? Quando Deus primeiro o chamou à nação - a um amplo evangelismo em 1936, ele recusou, mas pagou caro por seu erro perdendo sua esposa e filha com tuberculose. As visões continuaram. Ministros diziam a ele que aquelas visões vinham de Satanás. Desesperado finalmente foi a procura de Deus na floresta, onde esteve face a face com um ser sobrenatural. O anjo deu a ele uma comissão de Deus para levar um dom de cura Divina para as pessoas do mundo. William Branham questionou se as pessoas do mundo creriam que um anjo realmente encontrou-se com ele, o anjo disse que a ele seria dado dois sinais sobrenaturais como prova de seu chamado. Então eles teriam que crer. E creio que eles creram!",
+    "subtitle": "Sobrenatural, Livro Dois: A Vida de William Branham (português) Owen Jorgensen",
+    "price": "R$25,00"
+  },
+  {
+    "title": "Sobrenatural, Livro Um: A Vida de William Branham (português) por Owen Jorgensen",
+    "author": "William Branham",
+    "imageUrl": "assets/images/72_sobrenatural_livroum.png",
+    "category": "biografia",
+    "description": "Livro Dois: O Jovem e Seu Desespero (1933 - 1946) Como um pastor jovem, William Branham lutou para entender sua vida peculiar. Por que ele era o único ministro na cidade que via visões? Quando Deus primeiro o chamou à nação - a um amplo evangelismo em 1936, ele recusou, mas pagou caro por seu erro perdendo sua esposa e filha com tuberculose. As visões continuaram. Ministros diziam a ele que aquelas visões vinham de Satanás. Desesperado finalmente foi a procura de Deus na floresta, onde esteve face a face com um ser sobrenatural. O anjo deu a ele uma comissão de Deus para levar um dom de cura Divina para as pessoas do mundo. William Branham questionou se as pessoas do mundo creriam que um anjo realmente encontrou-se com ele, o anjo disse que a ele seria dado dois sinais sobrenaturais como prova de seu chamado. Então eles teriam que crer. E creio que eles creram!",
+    "subtitle": "Livro Um: O Rapaz e Sua Privação (1909 - 1932)  Desde o minuto em que nasceu,William Branham foi colocado a parte do comum. Importunado pela pobreza e rejeição, ele se tornou uma criança nervosa. Coisas incomuns mantinham-se acontecendo a ele, coisas místicas e espirituais... Porém ele não tinha nem começado a pensar em Deus até que tivesse 14 anos, quando ele chegou perto de perder ambas as pernas em um acidente com um rifle. Enquanto ele estava deitado, morrendo em uma poça de sangue, ele viu uma terrível visão do inferno - viu a ele mesmo caindo constante e profundamente naquela região de perdidos e almas vagueantes. Ele clamou a Deus por misericórdia e miraculosamente foi dado uma segunda chance - uma chance a qual mais tarde ele quase falhou em compreendê-la.",
+    "price": "R$25,00"
+  },
+  {
+    "title": "Livro - Mensageiro (William Branham) em Cores por George Smith em Português",
+    "author": "William Branham",
+    "imageUrl": "assets/images/73_mensageiro_georgesmith.png",
+    "category": "biografia",
+    "description": "Há muitas histórias notáveis e inspiradoras da vida de William Branham que foram contadas através dos anos, por aqueles que o conheceram muito bem e também através de sua própria pregação. Toda vez que você ouve um sermão, você provavelmente ouvirá algo novo - isto é, algo que você já ouviu antes, mas na verdade algo que você está entendendo pela primeira vez. Algumas das fotografias neste livro você pode nunca ter visto; outros, sem dúvida, muitas vezes. Nós convidamos você a abrir o livro, para ver uma coleção do desconhecido, bem como o bem conhecido, e observar algo 'novo' em ambos. Nossa esperança é que a observância dessas visões da vida do profeta sirva para aprofundar sua compreensão do mensageiro, da mensagem que ele trouxe e do Senhor Jesus Cristo a quem ele representou, porque assim como o próprio irmão Branham disse: 'nosso tema e nosso coração, e tudo o que temos e pelo qual vivemos é Jesus Cristo'. Livro 'Mensageiro' Disponível em Espanhol em Parceria com a Believers International (George Smith)",
+    "subtitle": "Livro - Mensageiro (William Branham) em Cores por George Smith em Português",
+    "price": "R$120,00"
+  },
+  {
+    "title": "Sobrenatural: A Vida de William Branham (Coleção Completa - Livros 1 ao 6)",
+    "author": "William Branham",
+    "imageUrl": "assets/images/74_sobrenatural_pacote.png",
+    "category": "biografia",
+    "description": "Na compra dos 6 livros da Coleção Sobrenatural, + o Livro William Branham: Um Profeta Visita A Africa do Sul, você estará recebendo de presente o livreto O Evangelho Sobrenatural. Conheça em detalhes a vida e ministério Sobrenatural do Rev. William Branham!",
+    "subtitle": "Sobrenatural: A Vida de William Branham (Coleção Completa - Livros 1 ao 6)",
+    "price": "R$240,00"
+  },
+  {
+    "title": "Livro Os Atos do Profeta por Pearry Green",
+    "author": "William Branham",
+    "imageUrl": "assets/images/75_atos_doprofeta.png",
+    "category": "biografia",
+    "description": "Após a morte do irmão William Branham em 1965, fui rotineiramente solicitado a dar um relato em primeira mão das coisas que tinha visto e ouvido, a respeito de sua vida e ministério. Em 1969, durante várias noites, pretendi registrar esse relato e, assim, contei meu testemunho à minha congregação no Tabernáculo de Tucson, em Tucson, Arizona. Durante os últimos 46 anos do meu ministério, contei muitas destas experiências, mas nunca em ordem cronológica. Com o desejo de atualizar, revisar e corrigir discrepâncias conforme necessário, participei de vários cultos na igreja para apresentar um relato mais preciso e completo de minhas experiências com o irmão Branham. Muitas vezes me pergunto por que fui abençoado por ver e ouvir todas essas coisas. Por que esse homem de Deus contou para mim muitas de suas experiências mais incríveis e preciosas? Disseram-me que minha memória era um dom de Deus, portanto, enquanto ainda estou neste tabernáculo, me esforçarei para falar as coisas que vimos e ouvimos (Atos 4:20), e prestarei testemunho do que Deus fez em esta geração na vida e ministério de William Branham. Confio que este testemunho será uma bênção para você. -Pearry Green Abril de 2011",
+    "subtitle": "Livro Os Atos do Profeta por Pearry Green",
+    "price": "R$70,00"
+  },
+  {
+    "title": "Livro - O Testemunho do Irmão Pearry Green",
+    "author": "William Branham",
+    "imageUrl": "assets/images/76_testemunho_pierregreen.png",
+    "category": "biografia",
+    "description": "William Branham dizia que se você visse algo acontecer na rua através de uma janela de vidro, você não poderia ser uma legítima testemunha. Porém o irmão Pearry Green viu o sobrenatural do Espírito Santo através do ministério de William Branham sem barreira alguma, podendo ser considerado uma legítima testemunha do mover de Deus. Neste livro Pearry green relata suas experiência pessoais com William Branham, mostrando não somente os sinais que Deus realizou em seu ministério, mas a simplicidade e humildade de um verdadeiro servo de Cristo no convívio social. À todos aqueles que lideram e que são liderados, e desejam um exemplo humano de perseverança e fé no Filho de Deus, é recomendado a leitura deste livro.",
+    "subtitle": "Livro - O Testemunho do Irmão Pearry Green",
+    "price": "R$30,00"
+  }
+  ,
+  {
+    "title": "Livro - Geração: Relembrando a vida de um profeta - Capa Brochura",
+    "author": "William Branham",
+    "imageUrl": "assets/images/77_geracao.png",
+    "category": "biografia",
+    "description": "Geração, Relembrando a Vida de um Profeta por Angela Smith. Memórias e imagens de pessoas que foram testemunhas de muitos dos eventos ocorridos durante os 33 anos do ministério de William Branham. Nossas vidas são enriquecidas à medida que estudamos a vida e as obras dos profetas do passado. Desse modo mais compreensão do poder, propósito e plano de Deus para o Seu povo, aqui no encerramento da era gentia, podem ser alcançados por um olhar mais atento à vida do vaso que Ele escolheu para o nosso dia, e através do qual Ele entregaria Sua Mensagem para nós. Você está prestes a conhecer 38 entrevistas que foram realizadas com um notável grupo de pessoas. Cada uma delas tem uma maravilhosa história para contar, sobre como suas vidas foram tocadas de maneira extraordinária, através da vida e do ministério de William Branham. Eles andaram com ele, trabalharam ao seu lado, acompanharam suas reuniões para lá e para cá por todo o país; descansaram no deserto com ele, patrocinaram suas campanhas, e muitos congregaram na igreja que ele construiu na esquina das ruas 8 e Penn em Jeffersonville, Indiana. Angela Smith, neta de William Branham, fez um trabalho muito parecido com o de Pápias, onde apesar de também não ter conhecido o profeta pessoalmente, compilou inúmeros testemunhos de pessoas que tiveram a oportunidade de conhecer o irmão Branham em inúmeras situações. Tais registros nos possibilitam conhecer um pouco mais sobre a vida e o ministério de um homem que impactou tantas vidas. “Geração: Relembrando a Vida de Um Profeta”, agora possui uma tradução para o português, é uma obra de grande valor e que sem dúvida deve ser apreciada por todos aqueles que amam esta Mensagem.",
+    "subtitle": "Livro - Geração: Relembrando a vida de um profeta - Capa Brochura",
+    "price": "R$80,00"
+  },
+  {
+    "title": "Livro Mensajero por George Smith (William Branham) em Espanhol",
+    "author": "William Branham",
+    "imageUrl": "assets/images/78_menjageiro.png",
+    "category": "biografia",
+    "description": "Existen muchas historias sobresalientes y de mucha inspiración de la vida de William Branham que se han relatado a través de los años, por los que lo conocieron muy ben y también por medio de sus propias predicaciones. Cada vez que uno escucha un sermón, probablemente escuchará algo nuevo - o sea, algo que ya escuchó antes, pero efectivamente algo que está entendiendo por primera vez. Algunas de las fotografías en este libro quizás Ud. nunca las ha visto; otras sin duda las ha visto muchas veces. Le invitamos a abrir el libro, para ver una colección de lo desconocido, como también de lo muy conocido, y observar algo 'nuevo' en ambos. Es nuestra esperanza que al observar estas vistas de la vida del profeta servirán para profundizar su entendimiento del mensajero, el mensaje que él trajo, y el Señor Jesucristo a quien él representó, porque así como el mismo Hermano Branham dijo: 'nuestro tema y nuestro corazón, y todo lo que tenemos, y por lo cual vivimos, es Jesucristo.'",
+    "subtitle": "Livro Mensajero por George Smith (William Branham) em Espanhol",
+    "price": "R$100,00"
+  },
+  {
+    "title": "Livro - William Branham, Um Profeta Visita A Africa do Sul por Julius Stadsklev",
+    "author": "William Branham",
+    "imageUrl": "assets/images/79_umprofetavisitaafricadosul.png",
+    "category": "biografia",
+    "description": "Existen muchas historias sobresalientes y de mucha inspiración de la vida de William Branham que se han relatado a través de los años, por los que lo conocieron muy ben y también por medio de sus propias predicaciones. Cada vez que uno escucha un sermón, probablemente escuchará algo nuevo - o sea, algo que ya escuchó antes, pero efectivamente algo que está entendiendo por primera vez. Algunas de las fotografías en este libro quizás Ud. nunca las ha visto; otras sin duda las ha visto muchas veces. Le invitamos a abrir el libro, para ver una colección de lo desconocido, como también de lo muy conocido, y observar algo 'nuevo' en ambos. Es nuestra esperanza que al observar estas vistas de la vida del profeta servirán para profundizar su entendimiento del mensajero, el mensaje que él trajo, y el Señor Jesucristo a quien él representó, porque así como el mismo Hermano Branham dijo: 'nuestro tema y nuestro corazón, y todo lo que tenemos, y por lo cual vivimos, es Jesucristo.'",
+    "subtitle": "Livro - William Branham, Um Profeta Visita A Africa do Sul por Julius Stadsklev",
+    "price": "R$30,00"
   }
 ]

@@ -126,7 +126,7 @@ class _HomePageState extends State<HomePage> {
             _buildDrawerItem('Conduta, Ordem, Doutrina-C.O.D.', 'C.O.D.'),
             _buildDrawerItem('Sermões em série do Ano 1965 ', 'série 65'),
             _buildDrawerItem('A mensagem para crianças', 'crianças'),
-            _buildDrawerItem('Biografias', 'biografias'),
+            _buildDrawerItem('Biografias', 'biografia'),
             _buildDrawerItem('Bíblias de Estudo', 'biblia'),
             _buildDrawerItem('Outros Autores', 'Outros Autores'),
                         
