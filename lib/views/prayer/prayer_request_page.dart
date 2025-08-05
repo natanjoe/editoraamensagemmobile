@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-import 'dart:convert';
+import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
 
 class PrayerRequestPage extends StatefulWidget {
-  const PrayerRequestPage({Key? key}) : super(key: key);
+   const PrayerRequestPage({super.key});
 
   @override
   State<PrayerRequestPage> createState() => _PrayerRequestPageState();
@@ -17,30 +16,52 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
   final _cityController = TextEditingController();
   final _descriptionController = TextEditingController();
 
-  void _submitForm() {
+  bool _isLoading = false;
+
+  Future<void> _submitForm() async {
     if (_formKey.currentState!.validate()) {
+      setState(() => _isLoading = true);
+
       final name = _nameController.text.trim();
       final email = _emailController.text.trim();
       final city = _cityController.text.trim();
       final description = _descriptionController.text.trim();
 
-      showDialog(
-        context: context,
-        builder: (_) => AlertDialog(
-          title: const Text('Pedido enviado'),
-          content: Text('Obrigado, $name!\nRecebemos seu pedido de oração.'),
-          actions: [
-            TextButton(
-              onPressed: () {
-                Navigator.pop(context);
-                _formKey.currentState!.reset();
-              },
-              child: const Text('OK'),
-            )
-          ],
-        ),
-      );
+      // Criando objeto no Back4App
+      final prayerRequest = ParseObject('PrayerRequests')
+        ..set('name', name)
+        ..set('email', email)
+        ..set('city', city)
+        ..set('description', description);
+
+      final response = await prayerRequest.save();
+
+      setState(() => _isLoading = false);
+
+      if (response.success) {
+        _showDialog('Pedido enviado',
+            'Obrigado, $name!\nRecebemos seu pedido de oração.');
+        _formKey.currentState!.reset();
+      } else {
+        _showDialog('Erro', 'Não foi possível enviar seu pedido. Tente novamente.');
+      }
     }
+  }
+
+  void _showDialog(String title, String message) {
+    showDialog(
+      context: context,
+      builder: (_) => AlertDialog(
+        title: Text(title),
+        content: Text(message),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text('OK'),
+          )
+        ],
+      ),
+    );
   }
 
   String? _requiredValidator(String? value, String fieldName) {
@@ -96,10 +117,12 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
                     _requiredValidator(value, 'pedido de oração'),
               ),
               const SizedBox(height: 20),
-              ElevatedButton(
-                onPressed: _submitForm,
-                child: const Text('Enviar pedido'),
-              ),
+              _isLoading
+                  ? const Center(child: CircularProgressIndicator())
+                  : ElevatedButton(
+                      onPressed: _submitForm,
+                      child: const Text('Enviar pedido'),
+                    ),
             ],
           ),
         ),

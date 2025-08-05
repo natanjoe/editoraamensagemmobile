@@ -9,6 +9,7 @@ import '../shared/book_card.dart';
 import '../about/about_page.dart';
 import '../donation/donation_page.dart';
 import '../prayer/prayer_request_page.dart';
+import '../developer/developer.dart';
 
 
 class HomePage extends StatefulWidget {
@@ -124,12 +125,10 @@ class _HomePageState extends State<HomePage> {
             
             _buildDrawerItem('Sermões Traduzidos', 'traducoes'),
             _buildDrawerItem('Conduta, Ordem, Doutrina-C.O.D.', 'C.O.D.'),
-            _buildDrawerItem('Sermões em série do Ano 1965 ', 'série 65'),
-            _buildDrawerItem('A mensagem para crianças', 'crianças'),
+            _buildDrawerItem('Séries, sermões por ano.', 'series'),
             _buildDrawerItem('Biografias', 'biografia'),
             _buildDrawerItem('Bíblias de Estudo', 'biblia'),
-            _buildDrawerItem('Outros Autores', 'Outros Autores'),
-                        
+                                    
             ListTile(
               leading: Icon(Icons.volunteer_activism, color: AppColors.primary),
               title: const Text('Doações'),
@@ -143,7 +142,7 @@ class _HomePageState extends State<HomePage> {
             ),
             
             ListTile(
-              leading: Icon(Icons.info, color: AppColors.primary),
+              leading: Icon(Icons.phone, color: AppColors.primary),
               title: const Text('Quem Somos'),
               onTap: () {
                 Navigator.pop(context);
@@ -156,12 +155,12 @@ class _HomePageState extends State<HomePage> {
            
             ListTile(
               leading: Icon(Icons.info, color: AppColors.primary),
-              title: const Text('Sobre o sistema.'),
+              title: const Text('Sobre o sistema'),
               onTap: () {
                 Navigator.pop(context);
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (_) => const AboutPage()),
+                  MaterialPageRoute(builder: (_) => const Developer()),
                 );
               },
             ),
