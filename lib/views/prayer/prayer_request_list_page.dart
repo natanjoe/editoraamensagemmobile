@@ -69,6 +69,7 @@ class _PrayerRequestsListPageState extends State<PrayerRequestsListPage> {
                         final name = request.get<String>('name') ?? '';
                         final email = request.get<String>('email') ?? '';
                         final city = request.get<String>('city') ?? '';
+                        final whatsapp = request.get<String>('whatsapp') ?? '';
                         final description =
                             request.get<String>('description') ?? '';
                         final createdAt = request.createdAt;
@@ -95,6 +96,11 @@ class _PrayerRequestsListPageState extends State<PrayerRequestsListPage> {
                                   "Email: $email",
                                   style: const TextStyle(fontSize: 12),
                                 ),
+                                Text(
+                                  "WhatsApp: $whatsapp",
+                                  style: const TextStyle(fontSize: 12),
+                                ),
+
                               ],
                             ),
                           ),

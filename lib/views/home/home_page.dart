@@ -1,7 +1,9 @@
 import 'dart:convert';
+import 'package:flutter/gestures.dart'; // 👈 Necessário para TapGestureRecognizer
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:parse_server_sdk_flutter/parse_server_sdk_flutter.dart';
+import 'package:url_launcher/url_launcher.dart'; // 👈 Necessário para abrir links
 import '../../core/constants/palette.dart';
 import '../../models/book_model.dart';
 import '../category/category_page.dart';
@@ -184,7 +186,6 @@ class _HomePageState extends State<HomePage> {
               },
             ),
 
-            // Mostrar somente se logado
             if (currentUser != null)
               ListTile(
                 leading: const Icon(Icons.list),
@@ -244,7 +245,6 @@ class _HomePageState extends State<HomePage> {
 
             const Divider(),
 
-            // Login / Logout
             if (currentUser == null)
               ListTile(
                 leading: const Icon(Icons.login),
@@ -279,6 +279,45 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
               onChanged: filterBooks,
+            ),
+          ),
+          // 🔹 Aviso com link para WhatsApp
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 12.0, vertical: 4.0),
+            child: RichText(
+              textAlign: TextAlign.center,
+              text: TextSpan(
+                style: TextStyle(
+                  color: Colors.black,
+                  fontWeight: FontWeight.bold,
+                  fontSize: 14,
+                ),
+                children: [
+                  const TextSpan(
+                    text:
+                        'Este aplicativo ainda não faz pagamento online.\nFeche seu pedido conosco pelo ',
+                  ),
+                  TextSpan(
+                    text: 'WhatsApp',
+                    style: const TextStyle(
+                      color: Colors.blue,
+                      decoration: TextDecoration.underline,
+                    ),
+                    recognizer: TapGestureRecognizer()
+                      ..onTap = () async {
+                        final Uri whatsappUrl = Uri.parse(
+                          'https://wa.me/555181444489?text=Olá,%20gostaria%20de%20fazer%20um%20pedido',
+                        );
+                        if (await canLaunchUrl(whatsappUrl)) {
+                          await launchUrl(
+                            whatsappUrl,
+                            mode: LaunchMode.externalApplication,
+                          );
+                        }
+                      },
+                  ),
+                ],
+              ),
             ),
           ),
           Expanded(

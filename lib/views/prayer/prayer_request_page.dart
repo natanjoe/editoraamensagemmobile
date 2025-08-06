@@ -14,6 +14,7 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
   final _nameController = TextEditingController();
   final _emailController = TextEditingController();
   final _cityController = TextEditingController();
+  final _whatsapp = TextEditingController();
   final _descriptionController = TextEditingController();
 
   bool _isLoading = false;
@@ -25,6 +26,7 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
       final name = _nameController.text.trim();
       final email = _emailController.text.trim();
       final city = _cityController.text.trim();
+      final whatsapp = _whatsapp.text.trim();
       final description = _descriptionController.text.trim();
 
       // Criando objeto no Back4App
@@ -32,6 +34,7 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
         ..set('name', name)
         ..set('email', email)
         ..set('city', city)
+        ..set('whatsapp', whatsapp)
         ..set('description', description);
 
       final response = await prayerRequest.save();
@@ -76,6 +79,7 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
     _nameController.dispose();
     _emailController.dispose();
     _cityController.dispose();
+    _whatsapp.dispose();
     _descriptionController.dispose();
     super.dispose();
   }
@@ -107,6 +111,11 @@ class _PrayerRequestPageState extends State<PrayerRequestPage> {
                 controller: _cityController,
                 decoration: const InputDecoration(labelText: 'Cidade'),
                 validator: (value) => _requiredValidator(value, 'cidade'),
+              ),
+              TextFormField(
+                controller: _whatsapp,
+                decoration: const InputDecoration(labelText: 'WhatsApp'),
+                validator: (value) => _requiredValidator(value, 'whatsapp'),
               ),
               TextFormField(
                 controller: _descriptionController,
