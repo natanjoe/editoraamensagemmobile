@@ -34,15 +34,6 @@ class Developer extends StatelessWidget {
             ),
             const Text('Estudio App Games'),
             const SizedBox(height: 20),
-            const Text(
-              'Informações sobre o sistema:',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            ),
-            const Text(
-              'Este aplicativo foi desenvolvido para gerenciar tarefas de envio e pedidos de mensagens, tornando mais acessível a mensagem do sétimo anjo de apocalipse 10:7. '
-              'Se você quiser um sistema como esse, para você, sua igreja ou comércio entre em contato:',
-            ),
-            const SizedBox(height: 20),
             const Text('📧 Email: estudioappgmes@gmail.com'),
             const SizedBox(height: 8),
 
@@ -66,6 +57,16 @@ class Developer extends StatelessWidget {
                 ],
               ),
             ),
+            const SizedBox(height: 20),
+            const Text(
+              'Informações sobre o sistema:',
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            ),
+            const Text(
+              'O aplicativo A Mensagem distribui com exclusividade as publicações da Editora A Mensagem, Believers International e A Mensagem Para Crianças, que são especializadas em publicar livros, artigos e sermões relacionados ao ministério sobrenatural de William Marrion Branham e ao Evangelho do Senhor Jesus Cristo.'
+              ,
+            ),
+            
           ],
         ),
       ),
